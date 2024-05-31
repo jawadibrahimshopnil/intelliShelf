@@ -2,7 +2,7 @@
 
 **IntelliShelf** is an online book management app. Here we offering a seamless experience across mobile, tablet, and desktop devices. Users can create an account, save a new book, update existing ones, and update as needed.
 
-***Live Site** :* [https://intellishelf-786b0.web.app//](https://intellishelf-786b0.web.app/)
+***Live Site** :* [https://intellishelf-786b0.web.app/](https://intellishelf-786b0.web.app/)
 
 ## Technologies Used
 
