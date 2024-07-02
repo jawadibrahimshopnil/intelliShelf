@@ -23,3 +23,19 @@
   - Add book: Users can add new book items to the website, providing details such as item name, category, description, and customization options.
   - Update book: Existing book items can be edited and updated with new information or changes.
 - **Secure Authentication:** User authentication is handled securely to protect user data and privacy.
+
+## Installation
+
+Follow these steps to clone and run the project locally:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/jawadibrahimshopnil/intelliShelf.git
+```
+### 2. Add your .env
+
+### 3. Go to client and server side and install packages and start the server
+```bash
+cd intelliShelf/server-side && npm i && nodemon index.js && cd ../client-side && npm i && npm run dev
+```
